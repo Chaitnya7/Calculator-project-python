@@ -1,7 +1,2 @@
-this is a calculator built with python 
-which can perform 
-addition 
-subtaction 
-multiplication
-division 
-make sure that you have installed python 
+calculator = calculator is built with python
+table genrator = it can generate any table which you want also built with python
